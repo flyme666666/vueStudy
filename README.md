@@ -1,4 +1,4 @@
-# vuestudy
+# vuestudy 玩玩VUE
 
 ## Project setup
 ```
