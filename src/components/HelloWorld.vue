@@ -3,8 +3,8 @@
     <h1>HelloWorld</h1>
     <el-menu>123</el-menu>
 
-    <el-button type = "success">确定</el-button>
-    <el-button type = "danger">取消</el-button>
+    <el-button type = "success">success</el-button>
+    <el-button type = "danger">danger</el-button>
   </div>
 </template>
 
@@ -17,8 +17,12 @@ export default {
 }
 </script>
 
-<script>
-//<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style lang="less">
+.hello {
+   background: yellow;
+  //  .el-button {
+  //     color: red;
+  //  }
+}
 
-
-</script>
+</style>>
